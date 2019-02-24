@@ -1,0 +1,9 @@
+İdman programı
+Burpee sayısı:1
+Squat sayısı:1
+Pushup sayısı:1
+situp sayısı:1
+1. işlem ---->isim:Burpee Adet:5
+2. işlem ---->isim:Situp Adet:5
+3. işlem ---->isim:Squat Adet:5
+4. işlem ---->isim:Pushup Adet:5

@@ -1,0 +1,23 @@
+{
+	"iller": [{
+				"urfa": [{
+							"birecik": [{
+								"merkezid": 1,
+								"istno": 1
+							}],
+							"birecik": [{
+								"merkezid": 1,
+								"istno": 1
+							}]
+						}],
+						"maraş": [{
+							"birecik": [{
+								"merkezid": 1,
+								"istno": 1
+							}],
+							"birecik": [{
+								"merkezid": 1,
+								"istno": 1
+							}]
+			}]
+}
